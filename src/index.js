@@ -11,7 +11,6 @@ import RegistrationPage from './Pages/RegistrationPage';
 import { 
   createBrowserRouter,
   RouterProvider,
-  Route,
  } from 'react-router-dom';
 
 
